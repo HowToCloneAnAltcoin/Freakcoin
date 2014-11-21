@@ -1764,8 +1764,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Freakcoin address (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Vnesite Freakcoin naslov (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Freakcoin address (e.g. FrtgHd4rgfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Vnesite Freakcoin naslov (e.g. FrtgHd4rgfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1908,8 +1908,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Naslov kamor želite poslati plačilo (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. FrtgHd4rgfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Naslov kamor želite poslati plačilo (e.g. FrtgHd4rgfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1938,8 +1938,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Freakcoin address (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Vnesite Freakcoin naslov (npr. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Freakcoin address (e.g. FrtgHd4rgfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Vnesite Freakcoin naslov (npr. FrtgHd4rgfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1962,8 +1962,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Naslov s katerim želite podpisati sporočilo (npr. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. FrtgHd4rgfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Naslov s katerim želite podpisati sporočilo (npr. FrtgHd4rgfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2026,8 +2026,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Naslov s katerim je bilo podpisano sporočilo (npr. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. FrtgHd4rgfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Naslov s katerim je bilo podpisano sporočilo (npr. FrtgHd4rgfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2042,8 +2042,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Freakcoin address (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Vnesite Freakcoin naslov (npr. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Freakcoin address (e.g. FrtgHd4rgfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Vnesite Freakcoin naslov (npr. FrtgHd4rgfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
