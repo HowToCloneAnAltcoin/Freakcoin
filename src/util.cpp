@@ -960,7 +960,7 @@ static std::string FormatException(std::exception* pex, const char* pszThread)
     char pszModule[MAX_PATH] = "";
     GetModuleFileNameA(NULL, pszModule, sizeof(pszModule));
 #else
-    const char* pszModule = "WINTERCOIN";
+    const char* pszModule = "Freakcoin";
 #endif
     if (pex)
         return strprintf(
@@ -1009,13 +1009,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\WINTERCOIN
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\WINTERCOIN
-    // Mac: ~/Library/Application Support/WINTERCOIN
-    // Unix: ~/.WINTERCOIN
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Freakcoin
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Freakcoin
+    // Mac: ~/Library/Application Support/Freakcoin
+    // Unix: ~/.Freakcoin
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "WINTERCOIN";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "Freakcoin";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -1027,10 +1027,10 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     fs::create_directory(pathRet);
-    return pathRet / "WINTERCOIN";
+    return pathRet / "Freakcoin";
 #else
     // Unix
-    return pathRet / ".WINTERCOIN";
+    return pathRet / ".Freakcoin";
 #endif
 #endif
 }
@@ -1072,7 +1072,7 @@ const boost::filesystem::path &GetDataDir(bool fNetSpecific)
 
 boost::filesystem::path GetConfigFile()
 {
-    boost::filesystem::path pathConfigFile(GetArg("-conf", "WINTERCOIN.conf"));
+    boost::filesystem::path pathConfigFile(GetArg("-conf", "Freakcoin.conf"));
     if (!pathConfigFile.is_complete()) pathConfigFile = GetDataDir(false) / pathConfigFile;
     return pathConfigFile;
 }
@@ -1103,7 +1103,7 @@ void ReadConfigFile(map<string, string>& mapSettingsRet,
 
 boost::filesystem::path GetPidFile()
 {
-    boost::filesystem::path pathPidFile(GetArg("-pid", "WINTERCOINd.pid"));
+    boost::filesystem::path pathPidFile(GetArg("-pid", "Freakcoind.pid"));
     if (!pathPidFile.is_complete()) pathPidFile = GetDataDir() / pathPidFile;
     return pathPidFile;
 }
@@ -1233,10 +1233,10 @@ void AddTimeData(const CNetAddr& ip, int64_t nTime)
                 if (!fMatch)
                 {
                     fDone = true;
-                    string strMessage = _("Warning: Please check that your computer's date and time are correct! If your clock is wrong WINTERCOIN will not work properly.");
+                    string strMessage = _("Warning: Please check that your computer's date and time are correct! If your clock is wrong Freakcoin will not work properly.");
                     strMiscWarning = strMessage;
                     printf("*** %s\n", strMessage.c_str());
-                    uiInterface.ThreadSafeMessageBox(strMessage+" ", string("WINTERCOIN"), CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION);
+                    uiInterface.ThreadSafeMessageBox(strMessage+" ", string("Freakcoin"), CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION);
                 }
             }
         }

@@ -521,7 +521,7 @@ void StakeMiner(CWallet *pwallet)
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
 
     // Make this thread recognisable as the mining thread
-    RenameThread("WINTERCOIN-miner");
+    RenameThread("Freakcoin-miner");
 
     bool fTryToSync = true;
 

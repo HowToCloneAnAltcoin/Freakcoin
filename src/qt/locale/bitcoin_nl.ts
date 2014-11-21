@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About WINTERCOIN</source>
-        <translation>Over WINTERCOIN</translation>
+        <source>About Freakcoin</source>
+        <translation>Over Freakcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;WINTERCOIN&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;WINTERCOIN&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;Freakcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Freakcoin&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The WINTERCOIN developers</source>
+Copyright © 2014 The Freakcoin developers</source>
         <translation>Copyright © 2009-2014 De Bitcoin ontwikkelaars
 Copyright © 2012-2014 De NovaCoin ontwikkelaars
-Copyright © 2014 De WINTERCOIN ontwikkelaars</translation>
+Copyright © 2014 De Freakcoin ontwikkelaars</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your WINTERCOIN addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn al jou WINTERCOIN adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
+        <source>These are your Freakcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn al jou Freakcoin adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a WINTERCOIN address</source>
-        <translation>Teken een bericht om te bewijzen dat je een WINTERCOIN adres bezit.</translation>
+        <source>Sign a message to prove you own a Freakcoin address</source>
+        <translation>Teken een bericht om te bewijzen dat je een Freakcoin adres bezit.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified WINTERCOIN address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek WINTERCOIN adres</translation>
+        <source>Verify a message to ensure it was signed with a specified Freakcoin address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek Freakcoin adres</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-58"/>
-        <source>WINTERCOIN will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>WINTERCOIN zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
+        <source>Freakcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Freakcoin zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about WINTERCOIN</source>
-        <translation>Toon informatie over WINTERCOIN</translation>
+        <source>Show information about Freakcoin</source>
+        <translation>Toon informatie over Freakcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a WINTERCOIN address</source>
-        <translation>Verstuur munten naar een WINTERCOIN adres</translation>
+        <source>Send coins to a Freakcoin address</source>
+        <translation>Verstuur munten naar een Freakcoin adres</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for WINTERCOIN</source>
-        <translation>Verander configuratie opties voor WINTERCOIN</translation>
+        <source>Modify configuration options for Freakcoin</source>
+        <translation>Verander configuratie opties voor Freakcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-202"/>
-        <source>WINTERCOIN</source>
-        <translation>WINTERCOIN</translation>
+        <source>Freakcoin</source>
+        <translation>Freakcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About WINTERCOIN</source>
-        <translation>&amp;Over WINTERCOIN</translation>
+        <source>&amp;About Freakcoin</source>
+        <translation>&amp;Over Freakcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>WINTERCOIN client</source>
-        <translation>WINTERCOIN client</translation>
+        <source>Freakcoin client</source>
+        <translation>Freakcoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to WINTERCOIN network</source>
-        <translation><numerusform>%n actieve verbinding naar WINTERCOIN netwerk</numerusform><numerusform>%n actieve verbindingen naar WINTERCOIN netwerk</numerusform></translation>
+        <source>%n active connection(s) to Freakcoin network</source>
+        <translation><numerusform>%n actieve verbinding naar Freakcoin netwerk</numerusform><numerusform>%n actieve verbindingen naar Freakcoin netwerk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-312"/>
-        <source>About WINTERCOIN card</source>
-        <translation>Over WINTERCOIN card</translation>
+        <source>About Freakcoin card</source>
+        <translation>Over Freakcoin card</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about WINTERCOIN card</source>
-        <translation>Toon informatie over WINTERCOIN card</translation>
+        <source>Show information about Freakcoin card</source>
+        <translation>Toon informatie over Freakcoin card</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid WINTERCOIN address or malformed URI parameters.</source>
-        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig WINTERCOIN adres of incorrecte URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Freakcoin address or malformed URI parameters.</source>
+        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig Freakcoin adres of incorrecte URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. WINTERCOIN can no longer continue safely and will quit.</source>
-        <translation>Een fatale fout . WINTERCOIN kan niet langer veilig doorgaan en sluit af.</translation>
+        <source>A fatal error occurred. Freakcoin can no longer continue safely and will quit.</source>
+        <translation>Een fatale fout . Freakcoin kan niet langer veilig doorgaan en sluit af.</translation>
     </message>
 </context>
 <context>
@@ -1063,8 +1063,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid WINTERCOIN address.</source>
-        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig WINTERCOIN adres.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Freakcoin address.</source>
+        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig Freakcoin adres.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>WINTERCOIN-Qt</source>
-        <translation>WINTERCOIN-Qt</translation>
+        <source>Freakcoin-Qt</source>
+        <translation>Freakcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start WINTERCOIN after logging in to the system.</source>
-        <translation>Automatisch starten van WINTERCOIN na inloggen van het systeem.</translation>
+        <source>Automatically start Freakcoin after logging in to the system.</source>
+        <translation>Automatisch starten van Freakcoin na inloggen van het systeem.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start WINTERCOIN on system login</source>
-        <translation>&amp;Start WINTERCOIN bij systeem aanmelding</translation>
+        <source>&amp;Start Freakcoin on system login</source>
+        <translation>&amp;Start Freakcoin bij systeem aanmelding</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the WINTERCOIN client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>De WINTERCOIN client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
+        <source>Automatically open the Freakcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>De Freakcoin client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the WINTERCOIN network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbinding maken met het WINTERCOIN netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
+        <source>Connect to the Freakcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbinding maken met het Freakcoin netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting WINTERCOIN.</source>
-        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na WINTERCOIN opnieuw op te starten.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Freakcoin.</source>
+        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na Freakcoin opnieuw op te starten.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show WINTERCOIN addresses in the transaction list or not.</source>
-        <translation>WINTERCOIN adressen in de transactielijst weergeven of niet</translation>
+        <source>Whether to show Freakcoin addresses in the transaction list or not.</source>
+        <translation>Freakcoin adressen in de transactielijst weergeven of niet</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting WINTERCOIN.</source>
-        <translation>Deze instelling word toegepast na een restart van WINTERCOIN.</translation>
+        <source>This setting will take effect after restarting Freakcoin.</source>
+        <translation>Deze instelling word toegepast na een restart van Freakcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the WINTERCOIN network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het WINTERCOIN netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Freakcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het Freakcoin netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the WINTERCOIN-Qt help message to get a list with possible WINTERCOIN command-line options.</source>
-        <translation>Laat het WINTERCOIN-QT help bericht zien om een lijst te krijgen met mogelijke WINTERCOIN command-regel opties.</translation>
+        <source>Show the Freakcoin-Qt help message to get a list with possible Freakcoin command-line options.</source>
+        <translation>Laat het Freakcoin-QT help bericht zien om een lijst te krijgen met mogelijke Freakcoin command-regel opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>WINTERCOIN - Debug window</source>
-        <translation>WINTERCOIN - Debugscherm</translation>
+        <source>Freakcoin - Debug window</source>
+        <translation>Freakcoin - Debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>WINTERCOIN Core</source>
-        <translation>WINTERCOIN Kern</translation>
+        <source>Freakcoin Core</source>
+        <translation>Freakcoin Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the WINTERCOIN debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het WINTERCOIN debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
+        <source>Open the Freakcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het Freakcoin debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the WINTERCOIN RPC console.</source>
-        <translation>Welkom bij de WINTERCOIN RPC console.</translation>
+        <source>Welcome to the Freakcoin RPC console.</source>
+        <translation>Welkom bij de Freakcoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1766,8 +1766,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a WINTERCOIN address (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Voeg een WINTERCOIN adres in (bijv. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Freakcoin address (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Voeg een Freakcoin adres in (bijv. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1866,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid WINTERCOIN address</source>
-        <translation>WAARSCHUWING: Ongeldig WINTERCOIN adres</translation>
+        <source>WARNING: Invalid Freakcoin address</source>
+        <translation>WAARSCHUWING: Ongeldig Freakcoin adres</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1910,8 +1910,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Het adres om naar te betalen (bijv. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Het adres om naar te betalen (bijv. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1940,8 +1940,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a WINTERCOIN address (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Voeg een WINTERCOIN adres in (bijv. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Freakcoin address (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Voeg een Freakcoin adres in (bijv. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1964,8 +1964,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Het adres om het bericht te ondertekenen (bijv. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2) </translation>
+        <source>The address to sign the message with (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Het adres om het bericht te ondertekenen (bijv. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2) </translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2001,8 +2001,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this WINTERCOIN address</source>
-        <translation>Teken een bericht om te bewijzen dat je een WINTERCOIN adres bezit.</translation>
+        <source>Sign the message to prove you own this Freakcoin address</source>
+        <translation>Teken een bericht om te bewijzen dat je een Freakcoin adres bezit.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2028,13 +2028,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Het adres van het bericht is ondertekend met (bijv. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Het adres van het bericht is ondertekend met (bijv. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified WINTERCOIN address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek WINTERCOIN adres</translation>
+        <source>Verify the message to ensure it was signed with the specified Freakcoin address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek Freakcoin adres</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a WINTERCOIN address (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Voeg een WINTERCOIN adres in (bijv. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Freakcoin address (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Voeg een Freakcoin adres in (bijv. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter WINTERCOIN signature</source>
-        <translation>Voer WINTERCOIN handtekening in</translation>
+        <source>Enter Freakcoin signature</source>
+        <translation>Voer Freakcoin handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2625,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>WINTERCOIN version</source>
-        <translation>WINTERCOIN versie</translation>
+        <source>Freakcoin version</source>
+        <translation>Freakcoin versie</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2635,8 +2635,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or WINTERCOINd</source>
-        <translation>Verstuur commando naar -server of WINTERCOINd</translation>
+        <source>Send command to -server or Freakcoind</source>
+        <translation>Verstuur commando naar -server of Freakcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,13 +2655,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: WINTERCOIN.conf)</source>
-        <translation>Selecteer configuratie bestand (standaard: WINTERCOIN.conf)</translation>
+        <source>Specify configuration file (default: Freakcoin.conf)</source>
+        <translation>Selecteer configuratie bestand (standaard: Freakcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: WINTERCOINd.pid)</source>
-        <translation>Selecteer pid bestand (standaard: WINTERCOIN.conf)</translation>
+        <source>Specify pid file (default: Freakcoind.pid)</source>
+        <translation>Selecteer pid bestand (standaard: Freakcoin.conf)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2810,8 +2810,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong WINTERCOIN will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is WINTERCOIN zal niet goed werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Freakcoin will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is Freakcoin zal niet goed werken.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3000,24 +3000,24 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=WINTERCOINrpc
+rpcuser=Freakcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;WINTERCOIN Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Freakcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een rpcpassword instellen in het configuratiebestand: 
 %s 
 Het wordt aanbevolen de volgende willekeurig wachtwoord gebruiken: 
-rpcuser = WINTERCOINrpc 
+rpcuser = Freakcoinrpc 
 rpcpassword = %s 
 (je hoeft niet dit wachtwoord te onthouden) 
 De gebruikersnaam en het wachtwoord MAG NIET hetzelfde zijn. 
 Als het bestand niet bestaat, maakt u met leesbare-alleen-eigenaar bestandsbeheermachtigingen.  
 Het wordt ook aanbevolen om alertnotify instellen zodat u een melding van problemen;  
-bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;WINTERCOIN Alert&quot; admin@foo.com </translation>
+bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Freakcoin Alert&quot; admin@foo.com </translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3141,13 +3141,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;WINTERCOIN Alert&quot; admi
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  WINTERCOIN is probably already running.</source>
-        <translation>Kan een slot op data directory %s niet verkrijgen. WINTERCOIN wordt waarschijnlijk al uitgevoerd.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Freakcoin is probably already running.</source>
+        <translation>Kan een slot op data directory %s niet verkrijgen. Freakcoin wordt waarschijnlijk al uitgevoerd.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>WINTERCOIN</source>
-        <translation>WINTERCOIN</translation>
+        <source>Freakcoin</source>
+        <translation>Freakcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3181,13 +3181,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;WINTERCOIN Alert&quot; admi
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of WINTERCOIN</source>
-        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van WINTERCOIN</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Freakcoin</source>
+        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van Freakcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart WINTERCOIN to complete</source>
-        <translation>Portemonnee moet herschreven worden: herstart WINTERCOIN om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart Freakcoin to complete</source>
+        <translation>Portemonnee moet herschreven worden: herstart Freakcoin om te voltooien</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3256,8 +3256,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;WINTERCOIN Alert&quot; admi
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. WINTERCOIN is probably already running.</source>
-        <translation>Niet mogelijk om %s op deze computer. WINTERCOIN is waarschijnlijk al geopened.</translation>
+        <source>Unable to bind to %s on this computer. Freakcoin is probably already running.</source>
+        <translation>Niet mogelijk om %s op deze computer. Freakcoin is waarschijnlijk al geopened.</translation>
     </message>
     <message>
         <location line="-97"/>

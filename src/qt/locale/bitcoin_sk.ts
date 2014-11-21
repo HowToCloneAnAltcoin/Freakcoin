@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About WINTERCOIN</source>
-        <translation>O WINTERCOIN</translation>
+        <source>About Freakcoin</source>
+        <translation>O Freakcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;WINTERCOIN&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;WINTERCOIN&lt;/b&gt; verzia</translation>
+        <source>&lt;b&gt;Freakcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Freakcoin&lt;/b&gt; verzia</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The WINTERCOIN developers</source>
+Copyright © 2014 The Freakcoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The WINTERCOIN developers</translation>
+Copyright © 2014 The Freakcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your WINTERCOIN addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše WINTERCOIN adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
+        <source>These are your Freakcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše Freakcoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a WINTERCOIN address</source>
-        <translation>Podpísať správu, že vlastníte WINTERCOIN adresu</translation>
+        <source>Sign a message to prove you own a Freakcoin address</source>
+        <translation>Podpísať správu, že vlastníte Freakcoin adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified WINTERCOIN address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou WINTERCOIN adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified Freakcoin address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou Freakcoin adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>WINTERCOIN will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>WINTERCOIN sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>Freakcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Freakcoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about WINTERCOIN</source>
-        <translation>Zobraziť informácie o WINTERCOIN</translation>
+        <source>Show information about Freakcoin</source>
+        <translation>Zobraziť informácie o Freakcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a WINTERCOIN address</source>
-        <translation>Poslať mince na WINTERCOIN adresu</translation>
+        <source>Send coins to a Freakcoin address</source>
+        <translation>Poslať mince na Freakcoin adresu</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for WINTERCOIN</source>
-        <translation>Upraviť možnosti konfigurácie pre WINTERCOIN</translation>
+        <source>Modify configuration options for Freakcoin</source>
+        <translation>Upraviť možnosti konfigurácie pre Freakcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-202"/>
-        <source>WINTERCOIN</source>
-        <translation>WINTERCOIN</translation>
+        <source>Freakcoin</source>
+        <translation>Freakcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About WINTERCOIN</source>
-        <translation>&amp;O WINTERCOIN</translation>
+        <source>&amp;About Freakcoin</source>
+        <translation>&amp;O Freakcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>WINTERCOIN client</source>
-        <translation>WINTERCOIN client</translation>
+        <source>Freakcoin client</source>
+        <translation>Freakcoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to WINTERCOIN network</source>
-        <translation><numerusform>%n aktívne spojenie s WINTERCOIN sieťov</numerusform><numerusform>%n aktívnych spojení s WINTERCOIN sieťov</numerusform><numerusform>%n aktívnych spojení s WINTERCOIN sieťov</numerusform></translation>
+        <source>%n active connection(s) to Freakcoin network</source>
+        <translation><numerusform>%n aktívne spojenie s Freakcoin sieťov</numerusform><numerusform>%n aktívnych spojení s Freakcoin sieťov</numerusform><numerusform>%n aktívnych spojení s Freakcoin sieťov</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-312"/>
-        <source>About WINTERCOIN card</source>
-        <translation>O WINTERCOIN karte</translation>
+        <source>About Freakcoin card</source>
+        <translation>O Freakcoin karte</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about WINTERCOIN card</source>
-        <translation>Zobraziť informácie o WINTERCOIN karte</translation>
+        <source>Show information about Freakcoin card</source>
+        <translation>Zobraziť informácie o Freakcoin karte</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -668,8 +668,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid WINTERCOIN address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou WINTERCOIN adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Freakcoin address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou Freakcoin adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -728,8 +728,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. WINTERCOIN can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. WINTERCOIN už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. Freakcoin can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. Freakcoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1062,8 +1062,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid WINTERCOIN address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou WINTERCOIN adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Freakcoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou Freakcoin adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1081,8 +1081,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>WINTERCOIN-Qt</source>
-        <translation>WINTERCOIN-Qt</translation>
+        <source>Freakcoin-Qt</source>
+        <translation>Freakcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1154,13 +1154,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start WINTERCOIN after logging in to the system.</source>
-        <translation>Automaticky spustiť WINTERCOIN po prihlásení sa do systému.</translation>
+        <source>Automatically start Freakcoin after logging in to the system.</source>
+        <translation>Automaticky spustiť Freakcoin po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start WINTERCOIN on system login</source>
-        <translation>&amp;Spustiť WINTERCOIN pri prihlásení do systému</translation>
+        <source>&amp;Start Freakcoin on system login</source>
+        <translation>&amp;Spustiť Freakcoin pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1179,8 +1179,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the WINTERCOIN client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta WINTERCOIN na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the Freakcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta Freakcoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1189,8 +1189,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the WINTERCOIN network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti WINTERCOIN cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the Freakcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti Freakcoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1264,8 +1264,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting WINTERCOIN.</source>
-        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní WINTERCOIN.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Freakcoin.</source>
+        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní Freakcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1279,8 +1279,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show WINTERCOIN addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť WINTERCOIN adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show Freakcoin addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť Freakcoin adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1326,8 +1326,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting WINTERCOIN.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní WINTERCOIN.</translation>
+        <source>This setting will take effect after restarting Freakcoin.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní Freakcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1345,8 +1345,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the WINTERCOIN network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou WINTERCOIN po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Freakcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou Freakcoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1561,8 +1561,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the WINTERCOIN-Qt help message to get a list with possible WINTERCOIN command-line options.</source>
-        <translation>Zobraziť WINTERCOIN-Qt nápovedu k získaniu zoznamu pre možnosti WINTERCOIN príkazového riadku.</translation>
+        <source>Show the Freakcoin-Qt help message to get a list with possible Freakcoin command-line options.</source>
+        <translation>Zobraziť Freakcoin-Qt nápovedu k získaniu zoznamu pre možnosti Freakcoin príkazového riadku.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1581,13 +1581,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-104"/>
-        <source>WINTERCOIN - Debug window</source>
-        <translation>WINTERCOIN - Ladiace okno</translation>
+        <source>Freakcoin - Debug window</source>
+        <translation>Freakcoin - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>WINTERCOIN Core</source>
-        <translation>WINTERCOIN Core</translation>
+        <source>Freakcoin Core</source>
+        <translation>Freakcoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1596,8 +1596,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the WINTERCOIN debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte WINTERCOIN ladenie log súbor z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory protokolu.</translation>
+        <source>Open the Freakcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte Freakcoin ladenie log súbor z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory protokolu.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1606,8 +1606,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the WINTERCOIN RPC console.</source>
-        <translation>Vitajte v WINTERCOIN RPC konzole.</translation>
+        <source>Welcome to the Freakcoin RPC console.</source>
+        <translation>Vitajte v Freakcoin RPC konzole.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1765,8 +1765,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a WINTERCOIN address (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadajte WINTERCOIN adresu (napr. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Freakcoin address (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadajte Freakcoin adresu (napr. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1865,8 +1865,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid WINTERCOIN address</source>
-        <translation>VAROVANIE: Neplatná WINTERCOIN adresa</translation>
+        <source>WARNING: Invalid Freakcoin address</source>
+        <translation>VAROVANIE: Neplatná Freakcoin adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1909,8 +1909,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa pre poslanie platby (napr. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa pre poslanie platby (napr. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1939,8 +1939,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a WINTERCOIN address (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadaj a WINTERCOIN addresu (napr. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Freakcoin address (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadaj a Freakcoin addresu (napr. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1963,8 +1963,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa na podpísanie správy (napr. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa na podpísanie správy (napr. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2000,8 +2000,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this WINTERCOIN address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto WINTERCOIN adresu</translation>
+        <source>Sign the message to prove you own this Freakcoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto Freakcoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2027,13 +2027,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa správy bola podpísaná (napr. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa správy bola podpísaná (napr. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified WINTERCOIN address</source>
-        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou WINTERCOIN adresu</translation>
+        <source>Verify the message to ensure it was signed with the specified Freakcoin address</source>
+        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou Freakcoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2043,8 +2043,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a WINTERCOIN address (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadajte WINTERCOIN adresu (napr. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Freakcoin address (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadajte Freakcoin adresu (napr. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2053,8 +2053,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter WINTERCOIN signature</source>
-        <translation>Zadajte WINTERCOIN podpis</translation>
+        <source>Enter Freakcoin signature</source>
+        <translation>Zadajte Freakcoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2624,8 +2624,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>WINTERCOIN version</source>
-        <translation>WINTERCOIN verzia</translation>
+        <source>Freakcoin version</source>
+        <translation>Freakcoin verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2634,8 +2634,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or WINTERCOINd</source>
-        <translation>Pošli príkaz na -server alebo WINTERCOINd</translation>
+        <source>Send command to -server or Freakcoind</source>
+        <translation>Pošli príkaz na -server alebo Freakcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2654,13 +2654,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: WINTERCOIN.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: WINTERCOIN.conf)</translation>
+        <source>Specify configuration file (default: Freakcoin.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: Freakcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: WINTERCOINd.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: WINTERCOINd.pid)</translation>
+        <source>Specify pid file (default: Freakcoind.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: Freakcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2809,8 +2809,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong WINTERCOIN will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny WINTERCOIN nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Freakcoin will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny Freakcoin nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2999,24 +2999,24 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=WINTERCOINrpc
+rpcuser=Freakcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;WINTERCOIN Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Freakcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
 Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=WINTERCOINrpc
+rpcuser=Freakcoinrpc
 rpcpassword=%s
 (Nemusíte si pamätať toto heslo)
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;WINTERCOIN Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;Freakcoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3140,13 +3140,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;WINTERCOIN Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  WINTERCOIN is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. WINTERCOIN už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Freakcoin is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. Freakcoin už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>WINTERCOIN</source>
-        <translation>WINTERCOIN</translation>
+        <source>Freakcoin</source>
+        <translation>Freakcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;WINTERCOIN Alert&quot; admin@fo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of WINTERCOIN</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu WINTERCOIN</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Freakcoin</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu Freakcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart WINTERCOIN to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte WINTERCOIN k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart Freakcoin to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte Freakcoin k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;WINTERCOIN Alert&quot; admin@fo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. WINTERCOIN is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. WINTERCOIN je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. Freakcoin is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. Freakcoin je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>

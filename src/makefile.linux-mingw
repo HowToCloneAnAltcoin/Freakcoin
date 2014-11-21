@@ -154,7 +154,7 @@ OBJS= \
     obj/scrypt-x86.o \
     obj/scrypt-x86_64.o \
 
-all: WINTERCOINd.exe
+all: Freakcoind.exe
 
 LIBS += $(CURDIR)/leveldb/libleveldb.a $(CURDIR)/leveldb/libmemenv.a
 DEFS += $(addprefix -I,$(CURDIR)/leveldb/include)
@@ -196,11 +196,11 @@ obj/%.o: %.c
 	  rm -f $(@:%.o=%.d)
 
 
-WINTERCOINd: $(OBJS:obj/%=obj/%)
+Freakcoind: $(OBJS:obj/%=obj/%)
 	$(LINK) $(xCXXFLAGS) -o $@ $^ $(xLDFLAGS) $(LIBS)
 
 clean:
-	-rm -f WINTERCOINd
+	-rm -f Freakcoind
 	-rm -f obj/*.o
 	-rm -f obj/*.P
 	-rm -f obj/build.h

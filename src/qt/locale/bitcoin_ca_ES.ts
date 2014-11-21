@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About WINTERCOIN</source>
-        <translation>Sobre WINTERCOIN</translation>
+        <source>About Freakcoin</source>
+        <translation>Sobre Freakcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;WINTERCOIN&lt;/b&gt; version</source>
-        <translation>versió &lt;b&gt;WINTERCOIN&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Freakcoin&lt;/b&gt; version</source>
+        <translation>versió &lt;b&gt;Freakcoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The WINTERCOIN developers</source>
+Copyright © 2014 The Freakcoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The WINTERCOIN developers</translation>
+Copyright © 2014 The Freakcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your WINTERCOIN addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces de WINTERCOIN per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
+        <source>These are your Freakcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces de Freakcoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a WINTERCOIN address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça WINTERCOIN</translation>
+        <source>Sign a message to prove you own a Freakcoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça Freakcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified WINTERCOIN address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça WINTERCOIN especificada.</translation>
+        <source>Verify a message to ensure it was signed with a specified Freakcoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça Freakcoin especificada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>WINTERCOIN will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>WINTERCOIN tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació de la seva cartera no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
+        <source>Freakcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Freakcoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació de la seva cartera no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -372,8 +372,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about WINTERCOIN</source>
-        <translation>Mostra informació sobre WINTERCOIN</translation>
+        <source>Show information about Freakcoin</source>
+        <translation>Mostra informació sobre Freakcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a WINTERCOIN address</source>
-        <translation>Enviar monedes a una adreça WINTERCOIN</translation>
+        <source>Send coins to a Freakcoin address</source>
+        <translation>Enviar monedes a una adreça Freakcoin</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for WINTERCOIN</source>
-        <translation>Modificar les opcions de configuració per a WINTERCOIN</translation>
+        <source>Modify configuration options for Freakcoin</source>
+        <translation>Modificar les opcions de configuració per a Freakcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -467,8 +467,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>WINTERCOIN</source>
-        <translation>WINTERCOIN</translation>
+        <source>Freakcoin</source>
+        <translation>Freakcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -477,8 +477,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About WINTERCOIN</source>
-        <translation>&amp;Sobre WINTERCOIN</translation>
+        <source>&amp;About Freakcoin</source>
+        <translation>&amp;Sobre Freakcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -534,13 +534,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>WINTERCOIN client</source>
-        <translation>Client WINTERCOIN</translation>
+        <source>Freakcoin client</source>
+        <translation>Client Freakcoin</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to WINTERCOIN network</source>
-        <translation><numerusform>%n conexió activa a la xarxa WINTERCOIN</numerusform><numerusform>%n conexions actives a la xarxa WINTERCOIN</numerusform></translation>
+        <source>%n active connection(s) to Freakcoin network</source>
+        <translation><numerusform>%n conexió activa a la xarxa Freakcoin</numerusform><numerusform>%n conexions actives a la xarxa Freakcoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -579,13 +579,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About WINTERCOIN card</source>
-        <translation>Sobre la tarjeta WINTERCOIN</translation>
+        <source>About Freakcoin card</source>
+        <translation>Sobre la tarjeta Freakcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about WINTERCOIN card</source>
-        <translation>Mostra informació sobre la tarjeta WINTERCOIN</translation>
+        <source>Show information about Freakcoin card</source>
+        <translation>Mostra informació sobre la tarjeta Freakcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -660,8 +660,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid WINTERCOIN address or malformed URI parameters.</source>
-        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça WINTERCOIN no vàlida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Freakcoin address or malformed URI parameters.</source>
+        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça Freakcoin no vàlida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -720,8 +720,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. WINTERCOIN can no longer continue safely and will quit.</source>
-        <translation>S&apos;ha produït un error fatal. WINTERCOIN ja no pot continuar de forma segura i es tancarà.</translation>
+        <source>A fatal error occurred. Freakcoin can no longer continue safely and will quit.</source>
+        <translation>S&apos;ha produït un error fatal. Freakcoin ja no pot continuar de forma segura i es tancarà.</translation>
     </message>
 </context>
 <context>
@@ -1054,8 +1054,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid WINTERCOIN address.</source>
-        <translation>La direcció introduïda &quot;%1&quot; no és una adreça WINTERCOIN vàlida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Freakcoin address.</source>
+        <translation>La direcció introduïda &quot;%1&quot; no és una adreça Freakcoin vàlida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1073,8 +1073,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>WINTERCOIN-Qt</source>
-        <translation>WINTERCOIN-Qt</translation>
+        <source>Freakcoin-Qt</source>
+        <translation>Freakcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1146,13 +1146,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start WINTERCOIN after logging in to the system.</source>
-        <translation>Inicia automàticament WINTERCOIN després d&apos;entrar en el sistema.</translation>
+        <source>Automatically start Freakcoin after logging in to the system.</source>
+        <translation>Inicia automàticament Freakcoin després d&apos;entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start WINTERCOIN on system login</source>
-        <translation>&amp;Iniciar WINTERCOIN amb l&apos;inici de sessió</translation>
+        <source>&amp;Start Freakcoin on system login</source>
+        <translation>&amp;Iniciar Freakcoin amb l&apos;inici de sessió</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1171,8 +1171,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the WINTERCOIN client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir automàticament el port de client WINTERCOIN en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
+        <source>Automatically open the Freakcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir automàticament el port de client Freakcoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1181,8 +1181,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the WINTERCOIN network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecteu-vos a la xarxa WINTERCOIN través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
+        <source>Connect to the Freakcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecteu-vos a la xarxa Freakcoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1256,8 +1256,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting WINTERCOIN.</source>
-        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar WINTERCOIN.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Freakcoin.</source>
+        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar Freakcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1271,8 +1271,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show WINTERCOIN addresses in the transaction list or not.</source>
-        <translation>Per mostrar WINTERCOIN adreces a la llista de transaccions o no.</translation>
+        <source>Whether to show Freakcoin addresses in the transaction list or not.</source>
+        <translation>Per mostrar Freakcoin adreces a la llista de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1318,8 +1318,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting WINTERCOIN.</source>
-        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar WINTERCOIN.</translation>
+        <source>This setting will take effect after restarting Freakcoin.</source>
+        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar Freakcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1337,8 +1337,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the WINTERCOIN network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot estar fora de data. La seva cartera es sincronitza automàticament amb la xarxa WINTERCOIN després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Freakcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot estar fora de data. La seva cartera es sincronitza automàticament amb la xarxa Freakcoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1553,8 +1553,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the WINTERCOIN-Qt help message to get a list with possible WINTERCOIN command-line options.</source>
-        <translation>Mostra el missatge d&apos;ajuda de WINTERCOIN-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres WINTERCOIN.</translation>
+        <source>Show the Freakcoin-Qt help message to get a list with possible Freakcoin command-line options.</source>
+        <translation>Mostra el missatge d&apos;ajuda de Freakcoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres Freakcoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>WINTERCOIN - Debug window</source>
-        <translation>WINTERCOIN - Finestra Depuració</translation>
+        <source>Freakcoin - Debug window</source>
+        <translation>Freakcoin - Finestra Depuració</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>WINTERCOIN Core</source>
-        <translation>Nucli WINTERCOIN</translation>
+        <source>Freakcoin Core</source>
+        <translation>Nucli Freakcoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1588,8 +1588,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the WINTERCOIN debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obriu el fitxer de registre de depuració WINTERCOIN des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
+        <source>Open the Freakcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obriu el fitxer de registre de depuració Freakcoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the WINTERCOIN RPC console.</source>
-        <translation>Benvingut a la consola RPC de WINTERCOIN.</translation>
+        <source>Welcome to the Freakcoin RPC console.</source>
+        <translation>Benvingut a la consola RPC de Freakcoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1757,8 +1757,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a WINTERCOIN address (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introdueix una adreça WINTERCOIN (p.ex. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Freakcoin address (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introdueix una adreça Freakcoin (p.ex. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1857,8 +1857,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid WINTERCOIN address</source>
-        <translation>ADVERTÈNCIA: Direcció WINTERCOIN invàlida</translation>
+        <source>WARNING: Invalid Freakcoin address</source>
+        <translation>ADVERTÈNCIA: Direcció Freakcoin invàlida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1901,8 +1901,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>L&apos;adreça per a enviar el pagament (per exemple: WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>L&apos;adreça per a enviar el pagament (per exemple: FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1931,8 +1931,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a WINTERCOIN address (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introdueix una adreça WINTERCOIN (p.ex. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Freakcoin address (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introdueix una adreça Freakcoin (p.ex. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1955,8 +1955,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>L&apos;adreça per a signar el missatge (per exemple WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>L&apos;adreça per a signar el missatge (per exemple FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1992,8 +1992,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this WINTERCOIN address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça WINTERCOIN</translation>
+        <source>Sign the message to prove you own this Freakcoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça Freakcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2019,13 +2019,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>La direcció que va ser signada amb un missatge (per exemple WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>La direcció que va ser signada amb un missatge (per exemple FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified WINTERCOIN address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça WINTERCOIN especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified Freakcoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça Freakcoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2035,8 +2035,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a WINTERCOIN address (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introdueix una adreça WINTERCOIN (p.ex. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Freakcoin address (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introdueix una adreça Freakcoin (p.ex. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2045,8 +2045,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter WINTERCOIN signature</source>
-        <translation>Introduïu la signatura WINTERCOIN</translation>
+        <source>Enter Freakcoin signature</source>
+        <translation>Introduïu la signatura Freakcoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2616,8 +2616,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>WINTERCOIN version</source>
-        <translation>versió WINTERCOIN</translation>
+        <source>Freakcoin version</source>
+        <translation>versió Freakcoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2626,8 +2626,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or WINTERCOINd</source>
-        <translation>Enviar comandes a -server o WINTERCOINd</translation>
+        <source>Send command to -server or Freakcoind</source>
+        <translation>Enviar comandes a -server o Freakcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2646,13 +2646,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: WINTERCOIN.conf)</source>
-        <translation>Especifiqueu el fitxer de configuració (per defecte: WINTERCOIN.conf)</translation>
+        <source>Specify configuration file (default: Freakcoin.conf)</source>
+        <translation>Especifiqueu el fitxer de configuració (per defecte: Freakcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: WINTERCOINd.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: WINTERCOINd.pid)</translation>
+        <source>Specify pid file (default: Freakcoind.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: Freakcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2801,8 +2801,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong WINTERCOIN will not work properly.</source>
-        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni WINTERCOIN no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Freakcoin will not work properly.</source>
+        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni Freakcoin no funcionarà correctament.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2991,24 +2991,24 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=WINTERCOINrpc
+rpcuser=Freakcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;WINTERCOIN Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Freakcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, ha d&apos;establir un rpcpassword al fitxer de configuració:
 %s
 Es recomana utilitzar la següent contrasenya aleatòria:
-rpcuser=WINTERCOINrpc
+rpcuser=Freakcoinrpc
 rpcpassword=%s
 (No cal recordar aquesta contrasenya)
 El nom d&apos;usuari i contrasenya NO HA DE SER el mateix.
 Si no hi ha l&apos;arxiu, s&apos;ha de crear amb els permisos de només lectura per al propietari.
 També es recomana establir alertnotify per a que se li notifiquin els problemes;
-per exemple: alertnotify=echo %%s | mail -s &quot;WINTERCOIN Alert&quot; admin@foo.com
+per exemple: alertnotify=echo %%s | mail -s &quot;Freakcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3134,13 +3134,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  WINTERCOIN is probably already running.</source>
-        <translation>No es pot obtenir un bloqueig en el directori de dades %s. WINTERCOIN probablement ja estigui en funcionament.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Freakcoin is probably already running.</source>
+        <translation>No es pot obtenir un bloqueig en el directori de dades %s. Freakcoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>WINTERCOIN</source>
-        <translation>WINTERCOIN</translation>
+        <source>Freakcoin</source>
+        <translation>Freakcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3174,13 +3174,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of WINTERCOIN</source>
-        <translation>Error en carregar wallet.dat: La cartera requereix la versió més recent de WINTERCOIN</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Freakcoin</source>
+        <translation>Error en carregar wallet.dat: La cartera requereix la versió més recent de Freakcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart WINTERCOIN to complete</source>
-        <translation>La cartera necessita ser reescrita: reiniciar WINTERCOIN per completar</translation>
+        <source>Wallet needed to be rewritten: restart Freakcoin to complete</source>
+        <translation>La cartera necessita ser reescrita: reiniciar Freakcoin per completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3249,8 +3249,8 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. WINTERCOIN is probably already running.</source>
-        <translation>No es pot enllaçar a %s en aquest equip. WINTERCOIN probablement ja estigui en funcionament.</translation>
+        <source>Unable to bind to %s on this computer. Freakcoin is probably already running.</source>
+        <translation>No es pot enllaçar a %s en aquest equip. Freakcoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-97"/>

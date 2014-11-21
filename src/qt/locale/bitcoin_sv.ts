@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About WINTERCOIN</source>
-        <translation>Vad du behöver veta om WINTERCOIN</translation>
+        <source>About Freakcoin</source>
+        <translation>Vad du behöver veta om Freakcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;WINTERCOIN&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;WINTERCOIN&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Freakcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Freakcoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The WINTERCOIN developers</source>
+Copyright © 2014 The Freakcoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The WINTERCOIN developers</translation>
+Copyright © 2014 The Freakcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -66,8 +66,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your WINTERCOIN addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dessa är dina WINTERCOIN adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
+        <source>These are your Freakcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dessa är dina Freakcoin adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -81,8 +81,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a WINTERCOIN address</source>
-        <translation>Signera ett meddelande för att bevisa att du äger WINTERCOIN adressen</translation>
+        <source>Sign a message to prove you own a Freakcoin address</source>
+        <translation>Signera ett meddelande för att bevisa att du äger Freakcoin adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,8 +96,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified WINTERCOIN address</source>
-        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik WINTERCOIN adress</translation>
+        <source>Verify a message to ensure it was signed with a specified Freakcoin address</source>
+        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik Freakcoin adress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -264,8 +264,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-58"/>
-        <source>WINTERCOIN will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>WINTERCOIN plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
+        <source>Freakcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Freakcoin plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -378,8 +378,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about WINTERCOIN</source>
-        <translation>Visa information om WINTERCOIN</translation>
+        <source>Show information about Freakcoin</source>
+        <translation>Visa information om Freakcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -428,13 +428,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a WINTERCOIN address</source>
-        <translation>Skicka coins till en WINTERCOIN adress</translation>
+        <source>Send coins to a Freakcoin address</source>
+        <translation>Skicka coins till en Freakcoin adress</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for WINTERCOIN</source>
-        <translation>Modifiera konfigurations-alternativ för WINTERCOIN</translation>
+        <source>Modify configuration options for Freakcoin</source>
+        <translation>Modifiera konfigurations-alternativ för Freakcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -473,8 +473,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-202"/>
-        <source>WINTERCOIN</source>
-        <translation>WINTERCOIN</translation>
+        <source>Freakcoin</source>
+        <translation>Freakcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -483,8 +483,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About WINTERCOIN</source>
-        <translation>&amp;Om WINTERCOIN</translation>
+        <source>&amp;About Freakcoin</source>
+        <translation>&amp;Om Freakcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -540,13 +540,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>WINTERCOIN client</source>
-        <translation>WINTERCOIN klient</translation>
+        <source>Freakcoin client</source>
+        <translation>Freakcoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to WINTERCOIN network</source>
-        <translation><numerusform>%n aktiv anslutning till WINTERCOIN nätverket</numerusform><numerusform>%n aktiva anslutning till WINTERCOIN nätverket</numerusform></translation>
+        <source>%n active connection(s) to Freakcoin network</source>
+        <translation><numerusform>%n aktiv anslutning till Freakcoin nätverket</numerusform><numerusform>%n aktiva anslutning till Freakcoin nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -585,13 +585,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-312"/>
-        <source>About WINTERCOIN card</source>
-        <translation>Om WINTERCOIN kortet</translation>
+        <source>About Freakcoin card</source>
+        <translation>Om Freakcoin kortet</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about WINTERCOIN card</source>
-        <translation>Via information om WINTERCOIN kortet</translation>
+        <source>Show information about Freakcoin card</source>
+        <translation>Via information om Freakcoin kortet</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -670,8 +670,8 @@ Adress: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid WINTERCOIN address or malformed URI parameters.</source>
-        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig WINTERCOIN adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Freakcoin address or malformed URI parameters.</source>
+        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig Freakcoin adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -730,8 +730,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. WINTERCOIN can no longer continue safely and will quit.</source>
-        <translation>Ett fatalt fel uppstod. WINTERCOIN kan inte fortsätta och stänger programmet.</translation>
+        <source>A fatal error occurred. Freakcoin can no longer continue safely and will quit.</source>
+        <translation>Ett fatalt fel uppstod. Freakcoin kan inte fortsätta och stänger programmet.</translation>
     </message>
 </context>
 <context>
@@ -1025,7 +1025,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>Namnet som kopplats till denna WINTERCOIN-adress</translation>
+        <translation>Namnet som kopplats till denna Freakcoin-adress</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1064,8 +1064,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid WINTERCOIN address.</source>
-        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig WINTERCOIN adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Freakcoin address.</source>
+        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig Freakcoin adress.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1083,8 +1083,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>WINTERCOIN-Qt</source>
-        <translation>WINTERCOIN-Qt</translation>
+        <source>Freakcoin-Qt</source>
+        <translation>Freakcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1156,13 +1156,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start WINTERCOIN after logging in to the system.</source>
-        <translation>Starta WINTERCOIN automatiskt vid inloggning.</translation>
+        <source>Automatically start Freakcoin after logging in to the system.</source>
+        <translation>Starta Freakcoin automatiskt vid inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start WINTERCOIN on system login</source>
-        <translation>&amp;Starta WINTERCOIN vid inloggning</translation>
+        <source>&amp;Start Freakcoin on system login</source>
+        <translation>&amp;Starta Freakcoin vid inloggning</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1181,8 +1181,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the WINTERCOIN client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt WINTERCOIN klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
+        <source>Automatically open the Freakcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt Freakcoin klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1191,8 +1191,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the WINTERCOIN network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till WINTERCOIN nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the Freakcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till Freakcoin nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1266,8 +1266,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting WINTERCOIN.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av WINTERCOIN.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Freakcoin.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av Freakcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1281,8 +1281,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show WINTERCOIN addresses in the transaction list or not.</source>
-        <translation>Om WINTERCOIN adresser skall visas i transaktionslistan eller inte.</translation>
+        <source>Whether to show Freakcoin addresses in the transaction list or not.</source>
+        <translation>Om Freakcoin adresser skall visas i transaktionslistan eller inte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1328,8 +1328,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting WINTERCOIN.</source>
-        <translation>Inställningen börjar gälla efter omstart av WINTERCOIN.</translation>
+        <source>This setting will take effect after restarting Freakcoin.</source>
+        <translation>Inställningen börjar gälla efter omstart av Freakcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1347,8 +1347,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the WINTERCOIN network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med WINTERCOIN nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Freakcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med Freakcoin nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1563,8 +1563,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the WINTERCOIN-Qt help message to get a list with possible WINTERCOIN command-line options.</source>
-        <translation>Visa WINTERCOIN-Qt hjälp meddelandet för att få en lista över möjliga WINTERCOIN kommandoradsalternativ.</translation>
+        <source>Show the Freakcoin-Qt help message to get a list with possible Freakcoin command-line options.</source>
+        <translation>Visa Freakcoin-Qt hjälp meddelandet för att få en lista över möjliga Freakcoin kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1583,13 +1583,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>WINTERCOIN - Debug window</source>
-        <translation>WINTERCOIN - Felsökningsfönster</translation>
+        <source>Freakcoin - Debug window</source>
+        <translation>Freakcoin - Felsökningsfönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>WINTERCOIN Core</source>
-        <translation>WINTERCOIN Core</translation>
+        <source>Freakcoin Core</source>
+        <translation>Freakcoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1598,8 +1598,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the WINTERCOIN debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna WINTERCOIN felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
+        <source>Open the Freakcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna Freakcoin felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1608,8 +1608,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the WINTERCOIN RPC console.</source>
-        <translation>Välkommen till WINTERCOIN RPC konsoll.</translation>
+        <source>Welcome to the Freakcoin RPC console.</source>
+        <translation>Välkommen till Freakcoin RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1767,8 +1767,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a WINTERCOIN address (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Fyll i en WINTERCOIN adress (t.ex. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Freakcoin address (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Fyll i en Freakcoin adress (t.ex. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1867,8 +1867,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid WINTERCOIN address</source>
-        <translation>VARNING: Ogiltig WINTERCOIN adress</translation>
+        <source>WARNING: Invalid Freakcoin address</source>
+        <translation>VARNING: Ogiltig Freakcoin adress</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1911,8 +1911,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adressen att skicka betalningen till  (t.ex. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adressen att skicka betalningen till  (t.ex. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1941,8 +1941,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a WINTERCOIN address (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Fyll i en WINTERCOIN adress (t.ex. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Freakcoin address (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Fyll i en Freakcoin adress (t.ex. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1965,8 +1965,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adressen att signera meddelandet med (t.ex. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adressen att signera meddelandet med (t.ex. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2002,8 +2002,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this WINTERCOIN address</source>
-        <translation>Signera meddelandet för att verifiera att du äger denna WINTERCOIN adressen</translation>
+        <source>Sign the message to prove you own this Freakcoin address</source>
+        <translation>Signera meddelandet för att verifiera att du äger denna Freakcoin adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2029,13 +2029,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adressen meddelandet var signerad med (t.ex. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adressen meddelandet var signerad med (t.ex. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified WINTERCOIN address</source>
-        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna WINTERCOIN adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified Freakcoin address</source>
+        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna Freakcoin adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2045,8 +2045,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a WINTERCOIN address (e.g. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Fyll i en WINTERCOIN adress (t.ex. WINTERCOINfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Freakcoin address (e.g. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Fyll i en Freakcoin adress (t.ex. FreakcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2055,8 +2055,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter WINTERCOIN signature</source>
-        <translation>Fyll i WINTERCOIN signatur</translation>
+        <source>Enter Freakcoin signature</source>
+        <translation>Fyll i Freakcoin signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2626,8 +2626,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>WINTERCOIN version</source>
-        <translation>WINTERCOIN version</translation>
+        <source>Freakcoin version</source>
+        <translation>Freakcoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2636,8 +2636,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or WINTERCOINd</source>
-        <translation>Skicka kommando till -server eller WINTERCOINd</translation>
+        <source>Send command to -server or Freakcoind</source>
+        <translation>Skicka kommando till -server eller Freakcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2656,13 +2656,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: WINTERCOIN.conf)</source>
-        <translation>Ange konfigurationsfilen (standard: WINTERCOIN.conf)</translation>
+        <source>Specify configuration file (default: Freakcoin.conf)</source>
+        <translation>Ange konfigurationsfilen (standard: Freakcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: WINTERCOINd.pid)</source>
-        <translation>Ange pid filen (standard WINTERCOINd.pid)</translation>
+        <source>Specify pid file (default: Freakcoind.pid)</source>
+        <translation>Ange pid filen (standard Freakcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2811,8 +2811,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong WINTERCOIN will not work properly.</source>
-        <translation>Varning: Kolla att din dators tid och datum är rätt. WINTERCOIN kan inte fungera ordentligt om tiden i datorn är fel.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Freakcoin will not work properly.</source>
+        <translation>Varning: Kolla att din dators tid och datum är rätt. Freakcoin kan inte fungera ordentligt om tiden i datorn är fel.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3001,24 +3001,24 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=WINTERCOINrpc
+rpcuser=Freakcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;WINTERCOIN Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Freakcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, du måste sätta rpcpassword i konfigurationsfilen:
  %s
 Det är rekommenderat att du använder följande slumpmässiga lösenord:
-rpcuser=WINTERCOINrpc
+rpcuser=Freakcoinrpc
 rpcpassword=%s
 (du behöver inte komma ihåg detta lösenord)
 Användarnamnet och lösenordet FÅR INTE vara samma.
 Om filen inte finns, skapa den med endast ägarrättigheter.
 Det är också rekommenderat att sätta alertnotify så du blir notifierad om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;WINTERCOIN Varning&quot; admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s &quot;Freakcoin Varning&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3143,13 +3143,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;WINTERCOIN Varning&quot; admi
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  WINTERCOIN is probably already running.</source>
-        <translation>Kan inte låsa datan i mappen %s. WINTERCOIN är kanske redan startad.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Freakcoin is probably already running.</source>
+        <translation>Kan inte låsa datan i mappen %s. Freakcoin är kanske redan startad.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>WINTERCOIN</source>
-        <translation>WINTERCOIN</translation>
+        <source>Freakcoin</source>
+        <translation>Freakcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3183,13 +3183,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;WINTERCOIN Varning&quot; admi
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of WINTERCOIN</source>
-        <translation>Kunde inte ladda wallet.dat: En nyare version av WINTERCOIN krävs</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Freakcoin</source>
+        <translation>Kunde inte ladda wallet.dat: En nyare version av Freakcoin krävs</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart WINTERCOIN to complete</source>
-        <translation>Plånboken måste skrivas om: Starta om WINTERCOIN för att slutföra</translation>
+        <source>Wallet needed to be rewritten: restart Freakcoin to complete</source>
+        <translation>Plånboken måste skrivas om: Starta om Freakcoin för att slutföra</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3258,8 +3258,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;WINTERCOIN Varning&quot; admi
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. WINTERCOIN is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. WINTERCOIN är sannolikt redan startad.</translation>
+        <source>Unable to bind to %s on this computer. Freakcoin is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. Freakcoin är sannolikt redan startad.</translation>
     </message>
     <message>
         <location line="-97"/>

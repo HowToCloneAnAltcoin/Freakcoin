@@ -189,7 +189,7 @@ bool GetIPFromIRC(SOCKET hSocket, string strMyName, CNetAddr& ipRet)
 void ThreadIRCSeed(void* parg)
 {
     // Make this thread recognisable as the IRC seeding thread
-    RenameThread("WINTERCOIN-ircseed");
+    RenameThread("Freakcoin-ircseed");
 
     try
     {
@@ -302,16 +302,16 @@ void ThreadIRCSeed2(void* parg)
         }
 
         if (fTestNet) {
-            Send(hSocket, "JOIN #WINTERCOINTEST\r");
-            Send(hSocket, "WHO #WINTERCOINTEST\r");
+            Send(hSocket, "JOIN #FreakcoinTEST\r");
+            Send(hSocket, "WHO #FreakcoinTEST\r");
         } else {
-            // randomly join #WINTERCOIN00-#WINTERCOIN05
+            // randomly join #Freakcoin00-#Freakcoin05
             //int channel_number = GetRandInt(5);
             int channel_number = 0;
             // Channel number is always 0 for initial release
             //int channel_number = 0;
-            Send(hSocket, strprintf("JOIN #WINTERCOIN%02d\r", channel_number).c_str());
-            Send(hSocket, strprintf("WHO #WINTERCOIN%02d\r", channel_number).c_str());
+            Send(hSocket, strprintf("JOIN #Freakcoin%02d\r", channel_number).c_str());
+            Send(hSocket, strprintf("WHO #Freakcoin%02d\r", channel_number).c_str());
         }
 
         int64_t nStart = GetTime();

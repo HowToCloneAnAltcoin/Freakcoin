@@ -1,9 +1,9 @@
-Building WINTERCOIN
+Building Freakcoin
 
-See doc/readme-qt.rst for instructions on building WINTERCOIN QT,
+See doc/readme-qt.rst for instructions on building Freakcoin QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of WINTERCOIN.
+implementation of Freakcoin.
 
-See doc/build-*.txt for instructions on building WINTERCOINd,
+See doc/build-*.txt for instructions on building Freakcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of WINTERCOIN.
+implementation of Freakcoin.

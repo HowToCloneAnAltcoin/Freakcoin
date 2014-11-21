@@ -34,9 +34,9 @@ QString BitcoinUnits::name(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("WINTER");
-    case mBTC: return QString("mWINTER");
-    case uBTC: return QString::fromUtf8("μWINTER");
+    case BTC: return QString("FKN");
+    case mBTC: return QString("mFKN");
+    case uBTC: return QString::fromUtf8("μFKN");
     default: return QString("???");
     }
 }
@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("WINTERCOINs");
-    case mBTC: return QString("Milli-WINTERCOINs (1 / 1,000)");
-    case uBTC: return QString("Micro-WINTERCOINs (1 / 1,000,000)");
+    case BTC: return QString("Freakcoins");
+    case mBTC: return QString("Milli-Freakcoins (1 / 1,000)");
+    case uBTC: return QString("Micro-Freakcoins (1 / 1,000,000)");
     default: return QString("???");
     }
 }
